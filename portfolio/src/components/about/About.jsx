@@ -13,7 +13,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description"> Mi nombre es Ximena, actualmente trabajo como becaria en el área de Coordinación de Ingenierías en donde administro el sitio web y apoyo en la logística del evento Open Doors. Tengo experiencia en diseño gráfico en con los programas Photoshop e Illustrator.</p>
-            <a href="" className="btn">Download CV</a>
+            <a href="https://drive.google.com/file/d/1V05x19d9bDpqEBaje4JFGI07MsQ-QpMr/view?usp=sharing" className="btn" target="_blank">Download CV</a>
           </div>
           <div className="about__skills grid">
 

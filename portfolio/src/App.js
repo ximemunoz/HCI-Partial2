@@ -6,7 +6,6 @@ import About from './components/about/About';
 import Services from './components/services/Services';
 import Resume from './components/resume/Resume';
 import Portfolio from './components/portfolio/Portfolio';
-import Contact from './components/contact/Contact';
 
 
 const App = () => {
@@ -19,7 +18,6 @@ const App = () => {
         <Services/>
         <Resume/>
         <Portfolio/>
-        <Contact/>
       </main>
     </>
   )
