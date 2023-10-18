@@ -6,7 +6,6 @@ import AccountCircleOutlinedIcon from '@mui/icons-material/AccountCircleOutlined
 import DesignServicesOutlinedIcon from '@mui/icons-material/DesignServicesOutlined';
 import ArticleOutlinedIcon from '@mui/icons-material/ArticleOutlined';
 import WorkOutlineOutlinedIcon from '@mui/icons-material/WorkOutlineOutlined';
-import ContactPhoneOutlinedIcon from '@mui/icons-material/ContactPhoneOutlined';
 
 const Sidebar = () => {
     return (
@@ -27,12 +26,6 @@ const Sidebar = () => {
                         <li className="nav__item">
                             <a href="#about" className="nav__link">
                                 <AccountCircleOutlinedIcon/>
-                            </a>
-                        </li>
-
-                        <li className="nav__item">
-                            <a href="#services" className="nav__link">
-                                <DesignServicesOutlinedIcon/>
                             </a>
                         </li>
 
