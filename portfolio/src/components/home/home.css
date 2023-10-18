@@ -4,6 +4,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url(../../assets/bg_img.png);
+    background-size: cover;
 }
 
 .intro {

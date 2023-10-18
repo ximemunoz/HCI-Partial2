@@ -3,7 +3,6 @@ import "./home.css"
 import Me from "../../assets/avatar-1.jpg"
 import HeaderSocials from './HeaderSocials'
 import ScrollDown from './ScrollDown'
-import Shapes from './Shapes'
 
 const Home = () => {
   return (
@@ -17,7 +16,7 @@ const Home = () => {
 
           <HeaderSocials/>
 
-          <a href="#contact" className="btn">Contrátame</a>
+          <a href="http://ig.me/m/munox_01" className="btn" target='_blank'>Contrátame</a>
 
           <ScrollDown/>
           
